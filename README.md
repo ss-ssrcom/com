@@ -1,1 +1,3 @@
-ss-ssr.com
+SS/ShadowsocksR Server 
+
+https://ss-ssr.com/
